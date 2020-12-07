@@ -1,0 +1,82 @@
+body {
+	height: 100%;
+	background-image: linear-gradient(rgb(135, 206, 250), white);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: arial;
+}
+
+.page {
+	width: 80%;
+	margin: auto;
+	padding: 0px, 20px, 30px, 20px;
+}
+
+.page.success-msg{
+	border-style: inset;
+	background-color: rgb(0, 255, 0, .5);
+}
+
+h1 {
+width: 60%;
+margin: auto;
+}
+
+.search-form{
+	width: 80%;
+	margin: auto;
+	display: inline-grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 10px;
+	padding: 20px;
+	border-style: inset;
+	background-color: rgb(119, 136, 153, .3);
+}
+
+.submit-form, .edit-form {
+	width: 80%;
+	margin: auto;
+	padding: 20px;
+	border-style: inset;
+	background-color: rgb(119, 136, 153, .3);
+}
+
+.content{
+margin: auto;
+background-color: rgb(119, 136, 153, .3);
+padding-top: 10px, 50px, 10px, 50px;
+width: 80%;
+}
+
+.movies, .games, .books {
+	text-align: center;
+	width: 100%;
+	margin: auto;
+	border-style: inset;
+	padding: 20px, 30px, 20px, 30px;
+
+}
+
+p.item{
+	border-bottom: rgb(211, 211, 211);
+	padding: 20px, 30px, 20px, 30px;
+
+}
+
+.foot{
+	 border-style: inset;
+	 margin-top: 30px;
+ }
+
+select {
+	height: 30px;
+    border-radius: 0px;
+    padding: 5px;
+    width: 150px;
+}
+
+
+
+li {
+	list-style-position: inside;
+}

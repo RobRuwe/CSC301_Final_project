@@ -1,0 +1,45 @@
+CSC 301: Final Project
+Instructor: Jesse Hockenbury
+
+MAKE IT CATALOG RECOMMENDED GAMES< MUSIC< ETC
+
+
+An individual final project that will allow for the use of learned concepts this semester.
+
+Required elements: (70 pts)
+	- A configuration file that connects to a database, includes functions.php and autoloads classes
+	- Two forms that support add/edit functionality
+	- At least one listing page that is searchable 
+	- Usage of session variables somehow in the application
+	- A database with at least 3 tables, 2 or which are related
+	- Use an SQL query with a JOIN statement
+	- Make use of an OOP class somewhere in the application
+	- Use a function or class method other than the constructor method
+	- Properly print variables inside of HTML
+	- Project hosted on github
+	
+Creativity (20 pts)
+	- Aesthetically pleasing design implemented
+	- Idea showed effort and creativity
+
+Presentation (10 pts)
+	- Present to the class your completed project pointing out how you implemented some of the required elements (max 5 minutes)
+	- Attendance during both day of presentations and semester wrap-up (no electronics allowed)
+
+Due: May 3rd by 4:30 p.m.
+Late Projects: for a penalty of 20 points accepts will be accepted until May 4th by 4:30 p.m. (no exceptions)
+
+Submission:
+	- URL to github repository
+	- Zip of files submitted to blackboard
+	- URL of final project
+
+Penalties
+	-100 and an F in the course if someone else completes your project for you
+	-100 built a project around the the book and customer database we have been using all semester
+	-20 late project submission
+	-15 points if project is not hosted on github
+	-10 for each required element missing
+	-5 for missing either presentation day
+	- Other penalties apply where professor feels appropriate
+	
